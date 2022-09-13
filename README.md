@@ -1,4 +1,10 @@
-# Content
+---
+description: >-
+  Target audience: Anyone that wants to participate in the Veteran PA Process
+  Working Group
+---
+
+# Documentation Outline
 
 ### [Current Veteran PA Process Working Group flow](current-vpa-process-wg-flow.md)
 

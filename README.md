@@ -4,10 +4,24 @@ description: >-
   Working Group
 ---
 
-# Documentation Outline
+# GitBook Outline
 
-### [Current Veteran PA Process Working Group flow](current-vpa-process-wg-flow.md)
+## [On boarding & Welcome](on-boarding-welcome/)
 
-### [Code of Conduct](code-of-conduct.md)
+### [Current Veteran PA Process Working Group flow](on-boarding-welcome/current-vpa-process-wg-flow.md)
 
-### [How to engage & contribute](how-to-engage-and-contribute.md)
+### [Code of Conduct](on-boarding-welcome/code-of-conduct.md)
+
+### [How to engage & contribute](on-boarding-welcome/how-to-engage-and-contribute.md)
+
+## [Veteran PA Guide](veteran-pa-guide/)
+
+### [Live Version](veteran-pa-guide/veteran-pa-guide-live-version.md)
+
+### [WIP Version](veteran-pa-guide/veteran-pa-guide-wip.md)
+
+## [Petition Process](petitions-process/)
+
+### [Live Version](petitions-process/veteran-pa-petition-process-live.md)
+
+### [WiP Version](petitions-process/veteran-pa-petition-process-wip.md)

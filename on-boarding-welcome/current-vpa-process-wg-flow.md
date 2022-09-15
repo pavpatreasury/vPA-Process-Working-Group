@@ -22,13 +22,13 @@ This should incentivise bounty managers to facilitate in a timely manner and foc
 
 ## The current **Bounty** flow visualised
 
-<figure><img src=".gitbook/assets/vPA Process WorkingGroup - Bounty process flow (option A).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vPA Process WorkingGroup - Bounty process flow (option A).jpg" alt=""><figcaption></figcaption></figure>
 
 ### What else is there?
 
 There's an alternative option, to be revisited in case of bottlenecks developing due to high amount of bounty submissions.
 
-<figure><img src=".gitbook/assets/vPA Process WorkingGroup - Bounty process flow(option B).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vPA Process WorkingGroup - Bounty process flow(option B).jpg" alt=""><figcaption></figcaption></figure>
 
 ## Challenging Status Quo
 

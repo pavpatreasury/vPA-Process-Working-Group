@@ -7,7 +7,7 @@
 This will enable You to view in the Veteran Proposal Assesor Working Group. 
 You're welcome to choose any other additional roles that interest you.
 
-![image](https://user-images.githubusercontent.com/80257662/194049505-7aabb8f7-8aef-4f68-8160-c9771f43814c.png)
+
 
 ### Information Overload?
 For better oversight it is possible to collapse the categories. Only channels with unread messages will stay visible (bold & white) when a category is collapsed.
@@ -17,7 +17,7 @@ For better oversight it is possible to collapse the categories. Only channels wi
 General discussions around the Veteran PA Working Group can be found in the [PC-WG forum](https://discord.gg/aaGYhV36) 
 
 
-### Last step
+### Last and most important step!
 Familiarise deeply with & the [Code of Conduct](https://pa-vpa-operations-treasury.gitbook.io/vpa-process-working-group/on-boarding-welcome/code-of-conduct#for-the-current-code-of-conduct-coc-please-see-chapter-8.1-in-the-governance-framework-for-pa-v-pa-o) & the [Working Group flow](https://pa-vpa-operations-treasury.gitbook.io/vpa-process-working-group/on-boarding-welcome/current-vpa-process-wg-flow).
 
 

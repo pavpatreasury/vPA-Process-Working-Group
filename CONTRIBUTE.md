@@ -11,22 +11,24 @@ You're welcome to choose any other additional roles that interest you.
 
 ### Information Overload?
 For better oversight it is possible to collapse the categories. Only channels with unread messages will stay visible (bold & white) when a category is collapsed.
+
 ![image](https://user-images.githubusercontent.com/80257662/194049661-a39b75ea-b915-475a-83b2-f443b92252ea.png)
 
 General discussions around the Veteran PA Working Group can be found in the [PC-WG forum](https://discord.gg/aaGYhV36) 
 
 
 ### Last step
-Familiarise deeply with & the (Code of Conduct)[https://pa-vpa-operations-treasury.gitbook.io/vpa-process-working-group/on-boarding-welcome/code-of-conduct#for-the-current-code-of-conduct-coc-please-see-chapter-8.1-in-the-governance-framework-for-pa-v-pa-o] & the (Working Group flow)[https://pa-vpa-operations-treasury.gitbook.io/vpa-process-working-group/on-boarding-welcome/current-vpa-process-wg-flow].
+Familiarise deeply with & the [Code of Conduct](https://pa-vpa-operations-treasury.gitbook.io/vpa-process-working-group/on-boarding-welcome/code-of-conduct#for-the-current-code-of-conduct-coc-please-see-chapter-8.1-in-the-governance-framework-for-pa-v-pa-o) & the [Working Group flow](https://pa-vpa-operations-treasury.gitbook.io/vpa-process-working-group/on-boarding-welcome/current-vpa-process-wg-flow).
 
 
 ## Start contributing
-After you are familiar with the Code of Conduct (CoC) and the workflows you can join the DeWork board (via this link)[https://app.dework.xyz/catalyst-circle-ca-r/veteran-ca-wg] and start writing suggestions and or claiming bounties.
+After you are familiar with the **Code of Conduct (CoC**) and the **Working Group flow** you can join the DeWork board [via this link](ttps://app.dework.xyz/catalyst-circle-ca-r/veteran-ca-wg)and start writing suggestions and/or claiming bounties.
 
 Here's an example of a DeWork task (bounty) opened in Discord 
-​
-<image>
+
+![image](https://user-images.githubusercontent.com/80257662/194076421-f1fdd2e2-75a7-486f-997d-7c87a127a05a.png)
+
 
 ## Ask (& find guidance)
-In case of uncertainty or a feeling of being lost, you can reach out to mods or other veteran PAs in the Discord and please ask away. 
+In case of uncertainty or a feeling of being lost, you can reach out to moderators or other veteran PAs in the Discord and please ask away. 
 Your inquiries will help to make the on-boarding process more meaningful and engaging! 

@@ -12,8 +12,8 @@
 For better oversight it is possible to **collapse** the **categories**. Only channels with unread messages will stay visible (**bold** & white) when a category is collapsed.\
 &#x20;![](../.gitbook/assets/CU-onboarding\_step2\_collaps\_cat.gif)
 
-General **discussions** around the **Veteran PA Working Group** can be found in the channel [**#discussion-vpa-wg** ](https://discord.gg/s2nUyWab)\
-![](<../.gitbook/assets/Discord-CU-onboard-step4\_vPA WG chat.png>)
+General **tasks and assignments** related to the **Veteran PA Working Group** can be found in the channel [**v**PA Working Group Discord](https://app.dework.xyz/catalyst-circle-ca-r/veteran-ca-wg)\
+
 
 ### Last step
 
@@ -24,6 +24,10 @@ Familiarise deeply with [Code of Conduct ](code-of-conduct.md#for-the-current-co
 After you are familiar with the Code of Conduct (CoC) and the workflows you can join the DeWork board [**via this link**](https://app.dework.xyz/catalyst-circle-ca-r/veteran-ca-wg) **** and start writing suggestions and or claiming bounties.
 
 Here's an example of a DeWork task (bounty) opened in Discord ![](<../.gitbook/assets/Discord-CU-onboard-step5\_dework task opened in D example.png>)
+
+Here is a quick tutorial for the process of submitting a suggestion or task request:
+
+{% embed url="https://youtu.be/JCxPLsu9r9g" %}
 
 ### Ask (& find guidance)
 
